@@ -1,7 +1,11 @@
 body{
-    background-color: pink;
+    background-color: yellow;
+}
+nav{
+    padding: 40px 20px;
 }
 h1{
+    
     color: brown;
 }
 p{
